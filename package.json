@@ -1,0 +1,31 @@
+{
+    "author": "pebble_volle@vllmr.eu",
+    "dependencies": {},
+    "keywords": [],
+    "name": "trekvolle2",
+    "pebble": {
+        "capabilities": [
+            "location",
+            "configurable",
+            "health"
+        ],
+        "displayName": "TrekVolle2",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "rocky",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "basalt",
+            "chalk",
+            "diorite"
+        ],
+        "uuid": "4cdeeecf-5ba0-407b-a237-37f52c48c522",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
